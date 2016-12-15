@@ -1,0 +1,152 @@
+img {
+	width: 100%;
+}
+
+body {
+	color: #b6b6b6;
+	background-color: #eee;
+}
+
+nav {
+	display: flex;
+	justify-content: flex-start;
+	width: 100%;
+	background-color: #3e3d3d;
+}
+
+nav ul {
+	display: flex;
+}
+
+nav li {
+	color: #c1c1c1;
+	display: flex;
+	padding: 10px;
+}
+
+nav a {
+	color: #c1c1c1;
+}
+
+.topbox {
+	width: 100%;
+	height: 200px;
+	background-color: #e5e5e5;
+}
+
+h1 {
+	color: #3e3d3d;
+	font-size: 130px;
+	text-transform: uppercase;
+	font-family: arial;
+	letter-spacing: 20px;
+	text-align: center;
+	padding-top: 40px;
+}
+
+.firstbox {
+	display: flex;
+}
+
+.box {
+	width: 60%;
+	height: 350px;
+	background-color: orange;
+	background-image: url(../images/space1.jpg);
+	background-size: cover;
+	background-position: 80% 50%;
+}
+
+.box2 {
+	width: 40%;
+	height: 350px;
+	background-color: yellow;
+	background-image: url(../images/moon1.jpg);
+	background-size: cover;
+	background-position: 80% 50%;
+}
+
+.secondbox {
+	display: flex;
+}
+
+.box3 {
+	width: 60%;
+	height: 400px;
+	background-color: blue;
+	background-image: url(../images/stars1.jpg);
+	background-size: cover;
+	background-position: 80% 50%;
+}
+
+.box4 {
+	width: 40%;
+	height: 400px;
+	background-color: purple;
+}
+
+.thirdbox {
+	display: flex;
+}
+
+.box5 {
+	width: 60%;
+	height: 400px;
+	background-color: red;
+}
+
+.box6 {
+	width: 40%;
+	height: 400px;
+	background-color: green;
+}
+
+.fourthbox {
+	display: flex;
+}
+
+.box7 {
+	width: 30%;
+	height: 300px;
+	background-color: orange;
+}
+
+.box8 {
+	width: 30%;
+	height: 300px;
+	background-color: yellow;
+}
+
+.box9 {
+	width: 40%;
+	height: 300px;
+	background-color: green;
+}
+
+.fifthbox {
+	display: flex;
+}
+
+.box10 {
+	width: 30%;
+	height: 500px;
+	background-color: blue;
+}
+
+.box11 {
+	width: 30%;
+	height: 500px;
+	background-color: purple;
+}
+
+.box12 {
+	width: 40%;
+	height: 500px;
+	background-color: red;
+}
+
+.load {
+	width: 30%;
+	height: 200px;
+	background-color: orange;
+}
